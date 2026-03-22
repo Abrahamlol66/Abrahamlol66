@@ -24,12 +24,12 @@
 
 | 💻 Tecnología | 📊 Nivel |
 |--------------|--------|
-| Python       | Intermedio |
-| JavaScript   | Intermedio |
-| HTML/CSS     | Intermedio |
-| Responsive Design | Intermedio |
-| Full Stack Development | Básico |
-| Excel        | Intermedio |
+| <img src="https://cdn.simpleicons.org/python" width="20"/> Python | Intermedio |
+| <img src="https://cdn.simpleicons.org/javascript" width="20"/> JavaScript | Intermedio |
+| <img src="https://cdn.simpleicons.org/html5" width="20"/> <img src="https://cdn.simpleicons.org/css3" width="20"/> HTML/CSS | Intermedio |
+| <img src="https://cdn.simpleicons.org/responsive" width="20"/> Responsive Design | Intermedio |
+| <img src="https://cdn.simpleicons.org/react" width="20"/> Full Stack Development | Básico |
+| <img src="https://cdn.simpleicons.org/microsoftexcel" width="20"/> Excel | Intermedio |
 
 ---
 
