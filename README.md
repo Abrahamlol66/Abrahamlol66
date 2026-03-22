@@ -12,11 +12,22 @@
 
 ---
 
-## 🚀 Sobre mí
-🎓 Estudiante de Ingeniería en Desarrollo de Software  
+<!--- About me -->
+### 🚀 Sobre mí
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=¡Hola+visitante!+Soy+Abraham+💜;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+cloud,+datos+y+desarrollo+🚀)](https://git.io/typing-svg)
+
+🎓 Estudiante de **Ingeniería en Desarrollo de Software**  
 💡 Apasionado por la resolución de problemas y la tecnología  
 🌎 Disponible para nuevas oportunidades y colaboración  
-🛠️ Interesado en desarrollo, cloud, datos y soporte IT  
+🛠️ Interesado en desarrollo, **cloud**, datos y soporte IT  
+
+Me gusta aprender constantemente y enfrentar nuevos desafíos en el mundo de la tecnología.  
+Busco mejorar mis habilidades en desarrollo de software, bases de datos y herramientas modernas, creando soluciones útiles y eficientes.
+
+</div>
+</br>
+
+--- 
 
 ---
 
