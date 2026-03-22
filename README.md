@@ -63,14 +63,6 @@
   </a>
 </p>
 
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrahamlol66&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamlol66&layout=compact&theme=tokyonight" height="150">
-</p>
 
 ---
 
@@ -89,11 +81,22 @@
 
 </div>
 
-| ![Abrahamlol66 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrahamlol66&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abrahamlol66&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abrahamlol66&theme=midnight_purple) |
-| :-: | :-: | :-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrahamlol66&theme=midnight_purple" />
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrahamlol66&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Abrahamlol66&locale=es&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
-| :-: | :-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abrahamlol66&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abrahamlol66&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrahamlol66&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abrahamlol66&locale=es&mode=daily&theme=midnight_purple" />
+</p>
 
 --- 
 
