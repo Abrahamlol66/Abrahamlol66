@@ -55,7 +55,6 @@ Actualmente, busco oportunidades donde pueda aplicar mis conocimientos, colabora
 | <img src="https://cdn.simpleicons.org/python" width="20"/>  Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
 | <img src="https://cdn.simpleicons.org/redhat" width="20"/>  Red Hat Program Learner | Red Hat | 🔴 Finalizado |
 
----
 
 <p align="center">
   <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
