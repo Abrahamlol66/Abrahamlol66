@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Abraham Bautista</h1>
-<h3 align="center">💻 Desarrollador de Software | Full Stack | Apasionado por la tecnología</h3>
+<h3 align="center">💻 Desarrollador de Software | Apasionado por la tecnología</h3>
 
 <p align="center">
   <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
