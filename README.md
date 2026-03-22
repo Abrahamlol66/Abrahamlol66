@@ -14,11 +14,11 @@
 
 <!--- Banner -->
 <p align="center">
-  <img src="assets/ghost.jpeg" width="1000px" height="500px" alt="Dark Ghost" />
+  <img src="assets/pendiente.jpeg" width="1000px" height="500px" alt="Pendiente" />
 </p>
 
 </br> 
-<img src="assets/iconcat_3.jpg" width=320 align="left">
+<img src="assets/ghost.jpg" width=320 align="left">
 
 <div align="justify">
   
