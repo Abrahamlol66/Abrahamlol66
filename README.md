@@ -37,7 +37,7 @@
 
 | 🌐 Idioma | 📊 Nivel |
 |----------|--------|
-| 🇺🇸 Inglés | B2+ |
+| 🇬🇧 Inglés | B2+ |
 | 🇫🇷 Francés | A1 |
 
 ---
@@ -56,8 +56,8 @@
 
 <p align="center">
   <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
-    <img src="https://cdn.simpleicons.org/credly" height="40"/><br>
-    <b>Ver en Credly</b>
+    <img src="https://img.shields.io/badge/Credly-Perfil-orange?style=for-the-badge&logo=credly&logoColor=white"/>
+    <br><b>Ver en Credly</b>
   </a>
 </p>
 
@@ -94,7 +94,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
-    <img src="https://cdn.simpleicons.org/credly" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/Abrahamlol66">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
