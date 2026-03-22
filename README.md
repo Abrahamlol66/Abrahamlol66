@@ -37,25 +37,29 @@
 
 | 🌐 Idioma | 📊 Nivel |
 |----------|--------|
-| 🇬🇧 Inglés | B2+ |
+| 🇺🇸 Inglés | B2+ |
 | 🇫🇷 Francés | A1 |
 
 ---
 
 ## 📜 Certificaciones
 
-<p align="left">
-  <img src="https://img.shields.io/badge/IBM-Web%20Development%20Fundamentals-blue?style=for-the-badge&logo=ibm">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=for-the-badge&logo=cisco">
-  <img src="https://img.shields.io/badge/IBM-R%20for%20Data%20Science-blue?style=for-the-badge&logo=ibm">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-orange?style=for-the-badge&logo=amazon-aws">
-  <img src="https://img.shields.io/badge/Cisco-Data%20Analytics-blue?style=for-the-badge&logo=cisco">
-  <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/RedHat-Learner-red?style=for-the-badge&logo=redhat">
-</p>
+| 📜 Certificación | 🏢 Empresa | 📅 Estado |
+|----------------|----------|----------|
+| IBM Web Development Fundamentals | IBM | Vigente |
+| Cisco Networking Basics | Cisco | Vigente |
+| IBM R for Data Science | IBM | Vigente |
+| AWS Cloud Foundations | AWS | Vigente |
+| Cisco Data Analytics Essentials | Cisco | Vigente |
+| Cisco Python Essentials 1 | Cisco | Vigente |
+| Red Hat Program Learner | Red Hat | Finalizado |
 
-🔗 Ver más en Credly:  
-https://www.credly.com/users/abraham-radahi-bautista-triana  
+<p align="center">
+  <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
+    <img src="https://cdn.simpleicons.org/credly" height="40"/><br>
+    <b>Ver en Credly</b>
+  </a>
+</p>
 
 ---
 
@@ -70,11 +74,9 @@ https://www.credly.com/users/abraham-radahi-bautista-triana
 
 ## 👾 Actividad
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abrahamlol66/Abrahamlol66/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abrahamlol66/Abrahamlol66/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abrahamlol66/Abrahamlol66/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abrahamlol66/Abrahamlol66/output/pacman-contribution-graph.svg" />
+</p>
 
 ---
 
