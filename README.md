@@ -1,42 +1,81 @@
-Abraham Radahi Bautista Triana
-Naucalpan, Méx. 53280
-abrahamtriana044@gmail.com
-+525554613436
-Datos personales
-Dispuesto a viajar: Sí
-Industria: Desarrollo de software, Soporte informático, Tecnología, Tecnologías de la información
-Nivel de educación más alto: Licenciatura incompleta o en curso
-Educación y formación
-Desarrollo de Software (Ingeniería)
-Tecmilenio-Ciudad de México, CDMX
-enero 2025 - Actualmente
-Habilidades, conocimientos e idiomas
-• Desarrollador de Software
-• Python
-• JavaScript
-• Excel
-• Diseño Web
-• Desarrollador Full Stack
-• Diseño Web Responsivo
-Idiomas
-• Inglés - Avanzado
-• Francés - Básico
-Enlaces
-https://www.credly.com/users/abraham-radahi-bautista-triana
-Certificados y licencias
-IBM Web Development Fundamentals
-febrero 2026 - Actualmente
-Cisco Networking Basics
-febrero 2026 - Actualmente
-Web Development Fundamentals IBM
-febrero 2026 - Actualmente
-IBM R for Data Science
-noviembre 2025 - Actualmente
-AWS Cloud Foundations
-septiembre 2025 - Actualmente
-Cisco Data Analytics Essentials
-abril 2025 - Actualmente
-Cisco Python Essentials 1
-febrero 2025 - Actualmente
-Red Hat Program Learner
-febrero 2025 - febrero 2026
+<h1 align="center">¡Hola! 👋 Soy Abraham Bautista</h1>
+
+<p align="center">
+💻 Desarrollador Full Stack en formación | 🚀 Apasionado por la tecnología | 🌎 México
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+🎓 Actualmente estudiando **Ingeniería en Desarrollo de Software**  
+📍 Ubicado en México  
+💡 Interesado en desarrollo web, bases de datos y soluciones tecnológicas  
+✈️ Disponibilidad para viajar  
+
+---
+
+## 🧠 Habilidades
+
+### 👨‍💻 Desarrollo
+- 🐍 Python
+- 🌐 JavaScript
+- 💻 Desarrollo Full Stack
+- 🎨 Diseño Web
+- 📱 Diseño Web Responsivo
+
+### 🛠️ Herramientas
+- 📊 Excel
+- 🗄️ Bases de datos
+- ⚙️ APIs y automatización
+
+---
+
+## 🌍 Idiomas
+
+- 🇺🇸 Inglés — Avanzado
+- 🇫🇷 Francés — Básico
+
+---
+
+## 📜 Certificaciones
+
+- 🎓 IBM Web Development Fundamentals
+- 🌐 Cisco Networking Basics
+- 📊 IBM R for Data Science
+- ☁️ AWS Cloud Foundations
+- 📈 Cisco Data Analytics Essentials
+- 🐍 Cisco Python Essentials 1
+- 🐧 Red Hat Program Learner
+
+🔗 Ver más en Credly:  
+👉 https://www.credly.com/users/abraham-radahi-bautista-triana
+
+---
+
+## 📫 Contacto
+
+📧 Email: **abrahamtriana044@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Actividad
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Actualmente aprendiendo
+
+- 🔥 Backend avanzado
