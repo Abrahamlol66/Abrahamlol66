@@ -84,9 +84,27 @@
 
 ---
 
-## 🔥 Racha de contribuciones
+<!-- Estadísticas -->
+### 📊 Estadísticas
+
+</div>
+
+| ![Abrahamlol66 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrahamlol66&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abrahamlol66&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abrahamlol66&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrahamlol66&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Abrahamlol66&locale=es&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abrahamlol66&theme=tokyonight" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF Gandalf" />
+</p>
+
+</br> 
+
+<p align="center">
+  ¡Gracias por visitar mi perfil! 💜
 </p>
 
 ---
