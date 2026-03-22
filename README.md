@@ -98,17 +98,6 @@
   <img src="https://streak-stats.demolab.com?user=Abrahamlol66&locale=es&mode=daily&theme=midnight_purple" />
 </p>
 
---- 
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF Gandalf" />
-</p>
-
-</br> 
-
-<p align="center">
-  ¡Gracias por visitar mi perfil! 💜
-</p>
 
 ---
 
@@ -122,3 +111,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
+
+--- 
+
+<p align="center">
+  ¡Gracias por visitar mi perfil! 💜
+</p>
+
+---
