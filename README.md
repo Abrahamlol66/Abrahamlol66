@@ -1,3 +1,9 @@
+<!--- Banner -->
+<p align="center">
+  <img src="assets/Inicio_Gato.gif" width="1000px" height="500px" alt="Inicio Gato" />
+</p>
+
+---
 <h1 align="center">¡Hola! Soy Abraham Bautista 👻</h1>
 <h3 align="center">💻 Desarrollador de Software | Apasionado por la tecnología</h3>
 
@@ -11,11 +17,6 @@
 </p>
 
 ---
-
-<!--- Banner -->
-<p align="center">
-  <img src="assets/Inicio_Gato.gif" width="1000px" height="500px" alt="Inicio Gato" />
-</p>
 
 </br> 
 <img src="assets/Ghost.jpg" width=320 align="left">
@@ -32,8 +33,6 @@ Actualmente, busco oportunidades donde pueda aplicar mis conocimientos, colabora
 
 </div>
 </br>
-
---- 
 
 ---
 
