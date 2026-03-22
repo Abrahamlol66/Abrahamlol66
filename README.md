@@ -46,10 +46,10 @@
 
 | 📜 Certificación | 🏢 Empresa | 📅 Estado |
 |----------------|----------|----------|
-| <img src="https://cdn.simpleicons.org/ibm" width="20"/> 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="20"/> 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
 | <img src="https://cdn.simpleicons.org/cisco" width="20"/> 🌐 Cisco Networking Basics | Cisco | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/ibm" width="20"/> 📊 IBM R for Data Science | IBM | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/amazonaws" width="20"/> ☁️ AWS Cloud Foundations | AWS | 🟢 Vigente |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="20"/> 📊 IBM R for Data Science | IBM | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20"/> ☁️ AWS Cloud Foundations | AWS | 🟢 Vigente |
 | <img src="https://cdn.simpleicons.org/cisco" width="20"/> 📈 Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
 | <img src="https://cdn.simpleicons.org/python" width="20"/> 🐍 Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
 | <img src="https://cdn.simpleicons.org/redhat" width="20"/> 🐧 Red Hat Program Learner | Red Hat | 🔴 Finalizado |
@@ -77,7 +77,7 @@
 ## 👾 Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abrahamlol66/Abrahamlol66/output/pacman-contribution-graph.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrahamlol66&theme=tokyo-night" />
 </p>
 
 ---
@@ -95,9 +95,6 @@
   <a href="mailto:abrahamtriana044@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <!-- <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>-->
   <a href="https://github.com/Abrahamlol66">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
