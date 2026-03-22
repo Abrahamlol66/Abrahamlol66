@@ -3,8 +3,6 @@
   <img src="assets/Inicio_Gato.gif" width="1000px" height="500px" alt="Inicio Gato" />
 </p>
 
----
-
 </br> 
 <img src="assets/Ghost.jpg" width=320 align="left">
 
