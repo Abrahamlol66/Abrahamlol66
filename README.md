@@ -14,7 +14,7 @@
 
 <!--- Banner -->
 <p align="center">
-  <img src="assets/pendiente.jpeg" width="1000px" height="500px" alt="Pendiente" />
+  <img src="assets/Inicio_Gato.gif" width="1000px" height="500px" alt="Inicio Gato" />
 </p>
 
 </br> 
