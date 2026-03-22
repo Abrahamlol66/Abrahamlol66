@@ -27,7 +27,7 @@
 | <img src="https://cdn.simpleicons.org/python" width="20"/> Python | Intermedio |
 | <img src="https://cdn.simpleicons.org/javascript" width="20"/> JavaScript | Intermedio |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/> HTML/CSS | Intermedio |
-| <img src="https://github.com/user-attachments/assets/4c76ff68-0315-473a-9e5f-03759d05af59" width="20"/> Responsive Design | Intermedio |
+| <img src="https://github.com/user-attachments/assets/03ba77f2-4dde-4d64-8716-a689037ff1a0" width="20"/> Responsive Design | Intermedio |
 | <img src="https://github.com/user-attachments/assets/45de4692-65ca-4a2e-856f-e10b15c9adea" width="20" /> Full Stack Development | Básico |
 | <img src="https://github.com/user-attachments/assets/ca6b8e05-ecd6-4503-a331-df6cf0e0b5fd" width="20"/> Excel | Intermedio |
 
