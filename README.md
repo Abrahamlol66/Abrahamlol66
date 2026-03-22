@@ -28,7 +28,7 @@
 | <img src="https://cdn.simpleicons.org/javascript" width="20"/> JavaScript | Intermedio |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/> HTML/CSS | Intermedio |
 | <img src="https://cdn.simpleicons.org/responsive" width="20"/> Responsive Design | Intermedio |
-| <img src="https://cdn.simpleicons.org/react" width="20"/> Full Stack Development | Básico |
+| <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c02ce59e-6537-48dc-9e61-8976b70ad57e" width="20" /> Full Stack Development | Básico |
 | <img src="https://cdn.simpleicons.org/microsoftexcel" width="20"/> Excel | Intermedio |
 
 ---
