@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Abraham Bautista</h1>
+<h1 align="center">¡Hola! Soy Abraham Bautista</h1>
 <h3 align="center">💻 Desarrollador de Software | Full Stack | Apasionado por la tecnología</h3>
 
 <p align="center">
