@@ -14,7 +14,7 @@
 
 <!--- Banner -->
 <p align="center">
-  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
+  <img src="assets/ghost.jpeg" width="1000px" height="500px" alt="Dark Ghost" />
 </p>
 
 </br> 
