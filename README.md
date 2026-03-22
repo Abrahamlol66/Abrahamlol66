@@ -47,12 +47,12 @@
 | 📜 Certificación | 🏢 Empresa | 📅 Estado |
 |----------------|----------|----------|
 | 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/cisco" width="20"/> Cisco Networking Basics | Cisco | 🟢 Vigente |
-| 📊 IBM R for Data Science | IBM | 🟢 Vigente |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>> AWS Cloud Foundations | AWS | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/cisco" width="20"/> Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/python" width="20"/> Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/redhat" width="20"/> Red Hat Program Learner | Red Hat | 🔴 Finalizado |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/>  Cisco Networking Basics | Cisco | 🟢 Vigente |
+| 💻 IBM R for Data Science | IBM | 🟢 Vigente |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  AWS Cloud Foundations | AWS | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/>  Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/python" width="20"/>  Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/redhat" width="20"/>  Red Hat Program Learner | Red Hat | 🔴 Finalizado |
 
 ---
 
