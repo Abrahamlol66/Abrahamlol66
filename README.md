@@ -23,16 +23,12 @@
 <div align="justify">
   
 <!--- About me -->
-### 🚀 Sobre mí
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=¡Hola+visitante!+Soy+Abraham+💜;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+cloud,+datos+y+desarrollo+🚀)](https://git.io/typing-svg)
+### Sobre mí
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=1E90FF&background=F29FFF00&width=500&height=30&lines=¡Hola+visitante!+Soy+Abraham;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+cloud,+datos+y+desarrollo)](https://git.io/typing-svg)
 
-🎓 Estudiante de **Ingeniería en Desarrollo de Software**  
-💡 Apasionado por la resolución de problemas y la tecnología  
-🌎 Disponible para nuevas oportunidades y colaboración  
-🛠️ Interesado en desarrollo, **cloud**, datos y soporte IT  
+Soy estudiante de Ingeniería en Desarrollo de Software con una fuerte pasión por la tecnología y la resolución de problemas. Me interesa especialmente el desarrollo de software, el análisis de datos, el cloud computing y el soporte IT. Disfruto aprender constantemente y enfrentar nuevos desafíos que me permitan mejorar mis habilidades técnicas y profesionales.
 
-Me gusta aprender constantemente y enfrentar nuevos desafíos en el mundo de la tecnología.  
-Busco mejorar mis habilidades en desarrollo de software, bases de datos y herramientas modernas, creando soluciones útiles y eficientes.
+Actualmente, busco oportunidades donde pueda aplicar mis conocimientos, colaborar en proyectos innovadores y seguir creciendo dentro del mundo tecnológico, aportando soluciones eficientes y bien estructuradas.
 
 </div>
 </br>
