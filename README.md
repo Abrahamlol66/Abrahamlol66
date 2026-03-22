@@ -24,7 +24,7 @@
   
 <!--- About me -->
 ### Sobre mí
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=1E90FF&background=F29FFF00&width=500&height=30&lines=¡Hola+visitante!+Soy+Abraham;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+cloud,+datos+y+desarrollo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=1E90FF&background=F29FFF00&width=500&height=30&lines=¡Hola!+Soy+Abraham;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+Full+Stack,+Cloud+y+desarrollo)](https://git.io/typing-svg)
 
 Soy estudiante de Ingeniería en Desarrollo de Software con una fuerte pasión por la tecnología y la resolución de problemas. Me interesa especialmente el desarrollo de software, el análisis de datos, el cloud computing y el soporte IT. Disfruto aprender constantemente y enfrentar nuevos desafíos que me permitan mejorar mis habilidades técnicas y profesionales.
 
