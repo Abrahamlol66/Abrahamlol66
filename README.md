@@ -37,8 +37,8 @@
 
 | 🌐 Idioma | 📊 Nivel |
 |----------|--------|
-| 🇬🇧 Inglés | B2+ |
-| 🇫🇷 Francés | A1 |
+| <img src="https://flagcdn.com/w40/gb.png" width="20"/> Inglés | B2+ |
+| <img src="https://flagcdn.com/w40/fr.png" width="20"/> Francés | A1 |
 
 ---
 
@@ -93,9 +93,9 @@
   <a href="mailto:abrahamtriana044@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
+  <!-- <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  </a>-->
   <a href="https://github.com/Abrahamlol66">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
