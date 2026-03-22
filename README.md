@@ -46,13 +46,13 @@
 
 | 📜 Certificación | 🏢 Empresa | 📅 Estado |
 |----------------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="20"/> 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/cisco" width="20"/> 🌐 Cisco Networking Basics | Cisco | 🟢 Vigente |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="20"/> 📊 IBM R for Data Science | IBM | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20"/> ☁️ AWS Cloud Foundations | AWS | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/cisco" width="20"/> 📈 Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/python" width="20"/> 🐍 Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
-| <img src="https://cdn.simpleicons.org/redhat" width="20"/> 🐧 Red Hat Program Learner | Red Hat | 🔴 Finalizado |
+| 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/> Cisco Networking Basics | Cisco | 🟢 Vigente |
+| 📊 IBM R for Data Science | IBM | 🟢 Vigente |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>> AWS Cloud Foundations | AWS | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/> Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/python" width="20"/> Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/redhat" width="20"/> Red Hat Program Learner | Red Hat | 🔴 Finalizado |
 
 ---
 
