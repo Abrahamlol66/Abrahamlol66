@@ -4,19 +4,6 @@
 </p>
 
 ---
-<h1 align="center">¡Hola! Soy Abraham Bautista 👻</h1>
-<h3 align="center">💻 Desarrollador de Software | Apasionado por la tecnología</h3>
-
-<p align="center">
-  <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
-    <img src="https://img.shields.io/badge/Certificaciones-Credly-orange?style=for-the-badge&logo=credly">
-  </a>
-  <a href="mailto:abrahamtriana044@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
 
 </br> 
 <img src="assets/Ghost.jpg" width=320 align="left">
