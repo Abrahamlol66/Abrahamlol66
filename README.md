@@ -12,6 +12,16 @@
 
 ---
 
+<!--- Banner -->
+<p align="center">
+  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
+</p>
+
+</br> 
+<img src="assets/iconcat_3.jpg" width=320 align="left">
+
+<div align="justify">
+  
 <!--- About me -->
 ### 🚀 Sobre mí
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=¡Hola+visitante!+Soy+Abraham+💜;Estudiante+de+Ingeniería+en+Software;Apasionado+por+la+tecnología+y+los+retos;Interesado+en+cloud,+datos+y+desarrollo+🚀)](https://git.io/typing-svg)
