@@ -74,7 +74,7 @@
 
 ---
 
-## 👾 Repos
+<!-- Pacman -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
