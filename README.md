@@ -18,7 +18,7 @@
 </p>
 
 </br> 
-<img src="assets/ghost.jpg" width=320 align="left">
+<img src="assets/Ghost.jpg" width=320 align="left">
 
 <div align="justify">
   
