@@ -46,18 +46,20 @@
 
 | 📜 Certificación | 🏢 Empresa | 📅 Estado |
 |----------------|----------|----------|
-| IBM Web Development Fundamentals | IBM | Vigente |
-| Cisco Networking Basics | Cisco | Vigente |
-| IBM R for Data Science | IBM | Vigente |
-| AWS Cloud Foundations | AWS | Vigente |
-| Cisco Data Analytics Essentials | Cisco | Vigente |
-| Cisco Python Essentials 1 | Cisco | Vigente |
-| Red Hat Program Learner | Red Hat | Finalizado |
+| <img src="https://cdn.simpleicons.org/ibm" width="20"/> 💻 IBM Web Development Fundamentals | IBM | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/> 🌐 Cisco Networking Basics | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/ibm" width="20"/> 📊 IBM R for Data Science | IBM | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/amazonaws" width="20"/> ☁️ AWS Cloud Foundations | AWS | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/cisco" width="20"/> 📈 Cisco Data Analytics Essentials | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/python" width="20"/> 🐍 Cisco Python Essentials 1 | Cisco | 🟢 Vigente |
+| <img src="https://cdn.simpleicons.org/redhat" width="20"/> 🐧 Red Hat Program Learner | Red Hat | 🔴 Finalizado |
+
+---
 
 <p align="center">
   <a href="https://www.credly.com/users/abraham-radahi-bautista-triana">
     <img src="https://img.shields.io/badge/Credly-Perfil-orange?style=for-the-badge&logo=credly&logoColor=white"/>
-    <br><b>Ver en Credly</b>
+    <br><b>Ver certificaciones</b>
   </a>
 </p>
 
